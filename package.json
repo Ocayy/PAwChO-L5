@@ -1,0 +1,12 @@
+{
+    "name": "pawcho-l5-jakub-nowosad",
+    "version": "1.0.0",
+    "description": "Aplikacja do sprawozdania z PAwChO, Laboratorium 5",
+    "main": "app.js",
+    "scripts": {
+      "start": "node app.js"
+    },
+    "dependencies": {
+      "express": "^4.18.2"
+    }
+  }
